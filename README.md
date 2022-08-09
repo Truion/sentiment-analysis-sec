@@ -43,11 +43,11 @@ As an aside, this repo contains a ETL pipeline to download and clean SEC filings
 
 ### Credits
 
-Members:
-Aditya Soni
-Akshat Jain
-Bhavsaar Saahil
-Jaimin Gajjar
-Jayant Kataria
-Joel Thomas
+**Members**:
+Aditya Soni,
+Akshat Jain,
+Bhavsaar Saahil,
+Jaimin Gajjar,
+Jayant Kataria,
+Joel Thomas,
 Mohit Mathuria
