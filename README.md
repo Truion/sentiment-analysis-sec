@@ -41,3 +41,13 @@ As an aside, this repo contains a ETL pipeline to download and clean SEC filings
 4) nltk
 5) sklearn
 
+### Credits
+
+Members:
+Aditya Soni
+Akshat Jain
+Bhavsaar Saahil
+Jaimin Gajjar
+Jayant Kataria
+Joel Thomas
+Mohit Mathuria
